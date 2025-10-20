@@ -15,3 +15,21 @@ Yue.to | 悦通-轻快稳定的一站式网络加速服务。
 
 
 #终端推荐
+
+IOS：
+
+Surge5/6、Stash、Loon/Loon Lite、QuantumultX、Shadowrocket、Egren
+
+Android：
+
+Clash Meta、FIClash、Surfboard、sing-box、Nekobox、Hiddify-Next、v2rayNG
+
+MacOS：
+
+Surge5/6、Stash、Clash Meta、QuantumultX、Loon
+
+Windows：
+
+Clash Verge、Clash.Mini、Clash.Meta
+
+
