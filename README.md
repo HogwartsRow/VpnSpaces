@@ -19,7 +19,7 @@ Yue.to | 轻云-轻快稳定的一站式网络加速服务。专为低价入门�
 
 官网链接 👉  https://qing.to
 
-邀请注册：[https://cn.yue.to/#/register?code=pqqurajb](https://my.qing.to/#/register?code=BOKZFIDG)
+邀请注册：[[https://my.qing.to/#/register?code=BOKZFIDG]](https://my.qing.to/#/register?code=BOKZFIDG)
 
 
 
