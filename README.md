@@ -5,13 +5,22 @@
 
 机场一：Yue.to | 悦通
 
-Yue.to | 悦通-轻快稳定的一站式网络加速服务。
+Yue.to | 悦通-轻快稳定的一站式网络加速服务。针对高端用户的选择，提供更快的速度、更高的稳定性和全球优质节点。适合对网络性能有更高要求的用户，带来更流畅的使用体验。
 
 官网链接 👉  https://yue.to
 
-邀请注册：https://cn.yue.to/#/register?code=pqqurajb
+邀请注册：[https://cn.yue.to/#/register?code=pqqurajb](https://my.yue.to/#/register?code=pqqurajb)
 
-礼品卡：GC6ECA88AE25C5
+
+
+机场二：Yue.to | 轻云
+
+Yue.to | 轻云-轻快稳定的一站式网络加速服务。专为低价入门用户设计，提供稳定的网络体验，适合日常轻量使用。通过 轻云，您可以以更实惠的价格享受基本的VPN服务。
+
+官网链接 👉  https://qing.to
+
+邀请注册：[https://cn.yue.to/#/register?code=pqqurajb](https://my.qing.to/#/register?code=BOKZFIDG)
+
 
 
 #终端推荐
